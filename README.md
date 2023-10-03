@@ -2,10 +2,10 @@
 <h1 style="color: royalblue"><strong>Hubert Adamkowski</strong></h1>
 
 <div>
-<h2>My tech stack</h2>
 <p align="center">
+  <span>This is my tech stack</span>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,scss,javascript,react,typescript,jest,react-testingl,vite" />
+    <img src="https://skillicons.dev/icons?i=html,css,scss,javascript,react,typescript,jest,vite" />
   </a>
 </p>
 </div>
