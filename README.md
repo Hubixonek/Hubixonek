@@ -1,7 +1,7 @@
 
 <h1 style="color: royalblue"><strong>Hubert Adamkowski</strong></h1>
-<p>I am currently pursuing my studies in Information of technology at Collegium Da Vinci in Poznań</p>
-<p>My primary focus is on web development</p>
+I am currently pursuing my studies in Information of technology at Collegium Da Vinci in Poznań. My primary focus is on web development
+
 <div>
 <h2>Tech stack:</h2>
 <p align="left">
