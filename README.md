@@ -2,8 +2,9 @@
 <h1 style="color: royalblue"><strong>Hubert Adamkowski</strong></h1>
 
 <div>
+  This is my tech stack
 <p align="center">
-  <a href="https://skillicons.dev">This is my tech stack
+  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,scss,javascript,react,typescript,jest,vite" />
   </a>
 </p>
