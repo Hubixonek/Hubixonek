@@ -3,8 +3,7 @@
 
 <div>
 <p align="center">
-  <span>This is my tech stack</span>
-  <a href="https://skillicons.dev">
+  <a href="https://skillicons.dev">This is my tech stack
     <img src="https://skillicons.dev/icons?i=html,css,scss,javascript,react,typescript,jest,vite" />
   </a>
 </p>
