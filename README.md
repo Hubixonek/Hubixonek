@@ -1,9 +1,8 @@
 ### Hi there 👋
 
-<!--
-**Hubixonek/Hubixonek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
+
+ <img src="https://github-readme-tech-stack.vercel.app/api/cards?lineCount=1" alt="My Tech Stack" />
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
