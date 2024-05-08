@@ -6,7 +6,7 @@ I am curious about the world and I am doing my best to manage my time well and s
 <h2>Tech stack:</h2>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,scss,python,javascript,react,typescript,jest,vite" />
+    <img src="https://skillicons.dev/icons?i=html,css,scss,python,javascript,react,typescript" />
   </a>
 </p>
 </div>
