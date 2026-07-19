@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:4169E1,100:172554&amp;height=180&amp;section=header&amp;text=Hubert%20Adamkowski&amp;fontSize=40&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Frontend%20Developer%20%26amp;%20UX%2FUI%20Designer&amp;descAlignY=60&amp;descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:1E3A8A,50:1D4ED8,100:172554&amp;height=200&amp;section=header&amp;text=Hubert%20Adamkowski&amp;fontSize=42&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Frontend%20Developer%20%26amp;%20UX%2FUI%20Designer&amp;descAlignY=60&amp;descSize=18" width="100%"/>
 
 </div>
 
@@ -105,11 +105,3 @@ https://www.hubertadamkowskiportfolio.pl/
 
 LinkedIn:  
 www.linkedin.com/in/hubert-adamkowski-16a173274
-
----
-
-<div align="center">
-
-Thanks for visiting my profile!
-
-</div>
