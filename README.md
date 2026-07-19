@@ -1,71 +1,106 @@
-<h1 align="left">Hubert Adamkowski</h1>
+<div align="center">
 
-<p align="left">
-Junior Frontend Developer with a strong interest in UX/UI Design. 
-I combine frontend development skills with user-centered design thinking 
-to create functional and intuitive digital experiences.
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:8B5CF6&height=200&section=header&text=Hubert%20Adamkowski&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Junior%20Frontend%20Developer%20%7C%20UX%2FUI%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
 
-<p align="left">
-Currently finishing my Computer Science engineering studies and continuously 
-developing my skills in frontend technologies, design systems, and user research.
-</p>
+<br/>
 
----
+<a href="#"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Building+with+React+%26+TypeScript;Designing+in+Figma;Bridging+Code+%26+UX" /></a>
 
-## About me
+</div>
 
-I am a Junior Frontend Developer focused on building modern web applications using React and TypeScript.
+<br/>
 
-My background in e-commerce allows me to understand user behavior and translate customer feedback into practical UX improvements that support both user needs and business goals.
+## 👋 O mnie
 
-I am passionate about combining clean code with thoughtful design, bridging the gap between development and user experience.
+Jestem **Junior Frontend Developerem**, który buduje nowoczesne aplikacje webowe w oparciu o **React** i **TypeScript**, łącząc to z pasją do projektowania **UX/UI**.
 
-Besides my GitHub projects, I showcase my UX/UI work through a dedicated portfolio created in Webflow CMS.
+Kończę studia inżynierskie na kierunku Informatyka i stale rozwijam swoje umiejętności w zakresie frontendu, systemów projektowych (design systems) oraz badań użytkowników (UX research).
 
-https://www.hubertadamkowskiportfolio.pl/
+- 🛍️ Doświadczenie w **e-commerce** — rozumiem zachowania użytkowników i przekładam ich feedback na realne usprawnienia UX
+- 🎨 Łączę **czysty kod** z **przemyślanym designem**
+- 📁 Oprócz projektów na GitHubie, prezentuję prace UX/UI w dedykowanym **portfolio na Webflow CMS**
 
----
+<br/>
 
-## Tech Stack
+## 🛠️ Tech Stack
+
+<div align="center">
 
 ### Frontend
-
-- HTML
-- CSS / SCSS
-- CSS Modules
-- Responsive Web Design (RWD)
-- JavaScript
-- React.js
-- React Hooks (useState, useEffect, useContext)
-- JSX
-- TypeScript (basic knowledge, static typing, props typing)
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
 
 ### Design & UX/UI
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/FigJam-1E1E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 
-- Figma
-  - Auto Layout
-  - Components
-  - Variants
-  - Variables
-  - Prototyping
-- FigJam
+### Narzędzia
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"/>
+<img src="https://img.shields.io/badge/Thulium-2E3440?style=for-the-badge&logoColor=white"/>
+
+</div>
+
+<br/>
+
+## 🎯 Umiejętności w szczegółach
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+**Frontend**
+- Responsive Web Design (RWD)
+- CSS Modules
+- React Hooks — `useState`, `useEffect`, `useContext`
+- JSX
+- TypeScript (podstawy typowania statycznego, typowanie propsów)
+
+</td>
+<td valign="top" width="50%">
+
+**Design & Research**
+- Figma — Auto Layout, Komponenty, Warianty, Zmienne
+- Prototypowanie
 - UX Research
-- Usability Testing
+- Testy użyteczności (Usability Testing)
 - A/B Testing
 
-### Tools & Workflow
+</td>
+</tr>
+</table>
 
-- Git
-- Trello
-- Thulium
+<br/>
 
----
+## 📊 GitHub Stats
 
-## Technologies
+<div align="center">
 
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,scss,js,react,typescript,figma,git" />
-  </a>
-</p>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=TWOJ_NICK&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TWOJ_NICK&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=TWOJ_NICK&theme=tokyonight&hide_border=true" />
+
+</div>
+
+<br/>
+
+## 🌐 Znajdź mnie
+
+<div align="center">
+
+<a href="TWOJ_LINK_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="TWOJ_LINK_PORTFOLIO"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=webflow&logoColor=white"/></a>
+<a href="mailto:TWOJ_EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:6366F1&height=100&section=footer" width="100%"/>
