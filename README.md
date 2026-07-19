@@ -73,19 +73,6 @@ created in Webflow CMS.
 - Trello
 - Thulium
 
----
-
-## Featured Skills
-
-- Building responsive and accessible interfaces
-- Translating designs into functional React components
-- Creating reusable UI components
-- Improving user experience through research and feedback analysis
-- Understanding both design and development perspectives
-- Collaborating between business, users, and technology
-
----
-
 ## Technologies
 
 <div align="left">
